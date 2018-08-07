@@ -207,4 +207,4 @@ Mock file access is controlled based on file mode where `process.getuid()` and `
 
 Tested on Linux, OSX, and Windows using Node 0.10 through 10.x.  Check the tickets for a list of [known issues](https://github.com/tschaub/mock-fs/issues).
 
-[![Current Status](https://secure.travis-ci.org/tschaub/mock-fs.png?branch=master)](https://travis-ci.org/tschaub/mock-fs) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/tschaub--mock-fs.svg)](https://www.staging.guardrails.io)
+[![Current Status](https://secure.travis-ci.org/tschaub/mock-fs.png?branch=master)](https://travis-ci.org/tschaub/mock-fs) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/tschaub--mock-fs.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/tschaub--mock-fs.svg)](https://www.guardrails.io)
